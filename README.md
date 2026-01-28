@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am currently working on web3 recommendation system.<br>I am looking for collaboration on a project for scrum vote.<br>I am looking for help with a new asymmetric cryptographic method for group of user.<br>
 
 
 ## 🌐 Socials:
